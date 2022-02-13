@@ -1,0 +1,25 @@
+{
+  "name": "listing_dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "bn.js": "^5.2.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "http-server": "^0.12.3",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.2.1",
+    "requirejs": "^2.3.6",
+    "web3": "^1.7.0"
+  }
+}
